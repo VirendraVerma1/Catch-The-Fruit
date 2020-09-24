@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c942bab8d0f00ac438991c261ceb7954
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ethelvina
+  fontNames:
+  - Ethelvina
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 165eb19273dde2345aaa01f16ad91b4f, type: 3}
+  - {fileID: 12800000, guid: 041dacbefea3bb54db006f25f68d7114, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
