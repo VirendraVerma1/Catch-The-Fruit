@@ -47,7 +47,7 @@ public class gamecontroller : MonoBehaviour {
             //Show Ads
             saveload.nuAddWatched = saveload.nuAddWatched + 1;
             saveload.Save();
-            gameObject.GetComponent<AdScript>().ShowinterstitialAds();
+            gameObject.GetComponent<AdScript>().ShowInterstitialAd();
         }
 
     }
